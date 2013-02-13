@@ -1,0 +1,5 @@
+work around redsocks to support proxy solely for this application.
+fix metadata extraction function.
+fix the bug causing improper downloads of mp3 files.
+rewrite code for downloading all files and that of polling for updates in any file.
+fix sample.py to be run first by default.

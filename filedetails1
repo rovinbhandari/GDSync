@@ -1,0 +1,35 @@
+{ u'mimeType': u'application/vnd.google-apps.presentation',
+  
+  u'thumbnailLink': u'https://docs.google.com/feeds/vt?gd=true&id=1PE-b6tDD2-t2DD84KitLWFy2HavposoUu8MmPZwzTpw&v=13&s=AMedNnoAAAAAURZJCgBQwEcDlbP_d6ry5_0ax4DRiSS4&sz=s220',
+  
+  u'labels': {u'restricted': False, u'starred': False, u'viewed': True, u'hidden': False, u'trashed': False},
+  
+  u'etag': u'"ky-gmqaUUYN8wxoFPgMc9ZipjMk/MTM0MDE4MTU5MjIyOA"',
+  
+  u'lastModifyingUserName': u'Rovin Bhandari',
+  
+  u'writersCanShare': True,
+  
+  u'id': u'1PE-b6tDD2-t2DD84KitLWFy2HavposoUu8MmPZwzTpw',
+  
+  u'title': u'Version Control (Git, GitHub, SVN), Coding Club, IITG',
+  
+  u'ownerNames': [u'Rovin Bhandari'],
+  
+  u'lastViewedByMeDate': u'2013-02-09T10:54:34.071Z',
+  
+  u'parents': [{u'isRoot': True, u'kind': u'drive#parentReference', u'id': u'0AAlryyhOKV2uUk9PVA', u'selfLink': u'https://www.googleapis.com/drive/v2/files/1PE-b6tDD2-t2DD84KitLWFy2HavposoUu8MmPZwzTpw/parents/0AAlryyhOKV2uUk9PVA', u'parentLink': u'https://www.googleapis.com/drive/v2/files/0AAlryyhOKV2uUk9PVA'}],
+  
+  u'exportLinks': {u'application/vnd.openxmlformats-officedocument.presentationml.presentation': u'https://docs.google.com/feeds/download/presentations/Export?id=1PE-b6tDD2-t2DD84KitLWFy2HavposoUu8MmPZwzTpw&exportFormat=pptx', u'application/pdf': u'https://docs.google.com/feeds/download/presentations/Export?id=1PE-b6tDD2-t2DD84KitLWFy2HavposoUu8MmPZwzTpw&exportFormat=pdf', u'text/plain': u'https://docs.google.com/feeds/download/presentations/Export?id=1PE-b6tDD2-t2DD84KitLWFy2HavposoUu8MmPZwzTpw&exportFormat=txt'},
+  
+  u'shared': True,
+  
+  u'editable': True,
+  
+  u'kind': u'drive#file',
+  
+  u'modifiedDate': u'2012-06-20T08:39:52.228Z',
+  
+  u'createdDate': u'2012-03-27T01:53:39.056Z',
+  
+  u'iconLink': u'https://ssl.gstatic.com/docs/doclist/images/icon_11_presentation_list.png', u'embedLink': u'https://docs.google.com/presentation/d/1PE-b6tDD2-t2DD84KitLWFy2HavposoUu8MmPZwzTpw/preview', u'alternateLink': u'https://docs.google.com/presentation/d/1PE-b6tDD2-t2DD84KitLWFy2HavposoUu8MmPZwzTpw/edit', u'modifiedByMeDate': u'2012-03-28T16:15:49.038Z', u'userPermission': {u'kind': u'drive#permission', u'etag': u'"ky-gmqaUUYN8wxoFPgMc9ZipjMk/ZCrN0-QGcrcpuBjPReG3q1-rIlQ"', u'role': u'owner', u'type': u'user', u'id': u'me', u'selfLink': u'https://www.googleapis.com/drive/v2/files/1PE-b6tDD2-t2DD84KitLWFy2HavposoUu8MmPZwzTpw/permissions/me'}, u'quotaBytesUsed': u'0', u'selfLink': u'https://www.googleapis.com/drive/v2/files/1PE-b6tDD2-t2DD84KitLWFy2HavposoUu8MmPZwzTpw'}
